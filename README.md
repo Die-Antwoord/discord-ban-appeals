@@ -1,4 +1,8 @@
-# Discord Ban Appeals
+#Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/99d67a71-fd97-461a-b695-0f827b3b28e8/deploy-status)](https://app.netlify.com/sites/lazycoders/deploys)
+
+## Discord Ban Appeals
 
 This is a form that allows users to appeal their bans from a Discord server.
 
